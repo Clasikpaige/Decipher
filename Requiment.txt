@@ -1,1 +1,3 @@
-request
+!pip install ecdsa
+!pip install blockcypher
+!pip install ecdsa
