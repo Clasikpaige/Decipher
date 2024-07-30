@@ -24,7 +24,7 @@ def convert_wallet_to_point(wallet_address):
 
 # Example usage
 if __name__ == "__main__":
-    wallet_address = '39D4ECsbEWnEgMpeB9opcUZcooFs9T61T'
+    wallet_address = 'bc1qnuz0xer03tgrkw7gy5xnacrtuzpv3g8lrr56te'
     try:
         public_key = convert_wallet_to_point(wallet_address)
         print(f"Public Key: {public_key}")
